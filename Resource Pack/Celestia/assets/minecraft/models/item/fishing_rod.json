@@ -1,0 +1,25 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+      "layer0": "minecraft:item/fishing_rod"
+    },
+    "overrides":[
+      {
+        "predicate": {"cast": 1},
+        "model": "item/fishing_rod_cast"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13012
+        },
+        "model": "plate:item/cosmicchainwhip"
+      },
+      {
+      "predicate": {
+          "cast": 1,
+          "custom_model_data": 13012
+      },
+      "model": "plate:item/cosmicchainwhipcast"
+      }
+    ]
+}

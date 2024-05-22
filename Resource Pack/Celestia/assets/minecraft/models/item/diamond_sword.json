@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides":[
+    {
+      "predicate":{
+        "custom_model_data":13001
+      },
+      "model": "plate:item/firstfractal"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13002
+      },
+      "model": "plate:item/slimeslasher"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13003
+      },
+      "model": "plate:item/slimeslasherready"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13010
+      },
+      "model": "plate:item/etherealrapier"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13011
+      },
+      "model": "plate:item/etherealrapierready"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13013
+      },
+      "model": "plate:item/starlightsaber"
+    },
+    {
+      "predicate":{
+        "custom_model_data":13014
+      },
+      "model": "plate:item/starlightsaberready"
+    }
+  ]
+}

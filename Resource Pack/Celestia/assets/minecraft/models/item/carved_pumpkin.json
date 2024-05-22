@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:block/carved_pumpkin",
+    "overrides": [
+        {
+            "predicate":{"custom_model_data":13501},
+            "model": "plate:armor/thulecite_crown_uncharged"
+        },
+        {
+            "predicate":{"custom_model_data":13502},
+            "model": "plate:armor/thulecite_crown"
+        },
+        {
+            "predicate":{"custom_model_data":13503},
+            "model": "plate:armor/thulecite_crown_ready"
+        }
+    ]
+}

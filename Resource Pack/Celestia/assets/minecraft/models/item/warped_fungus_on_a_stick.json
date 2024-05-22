@@ -1,0 +1,59 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+      "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+    "overrides":[
+      {
+        "predicate":{
+          "custom_model_data":13004
+        },
+        "model": "plate:item/starlightdagger"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13005
+        },
+        "model": "plate:item/starlightdaggerready"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13006
+        },
+        "model": "plate:item/solariumdagger"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13007
+        },
+        "model": "plate:item/lunariumdagger"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13008
+        },
+        "model": "plate:item/solariumdaggerready"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13009
+        },
+        "model": "plate:item/lunariumdaggerready"
+      },
+      {
+        "predicate":{
+          "custom_model_data":13013
+        },
+        "model": "plate:item/lunar_wand"
+      },
+
+
+
+      {
+        "predicate":{
+          "custom_model_data":13201
+        },
+        "model": "plate:item/stellarnovacannon"
+      }
+    ]
+  }
