@@ -1,0 +1,12 @@
+{ 
+    "celestia.nova_cannon_whir": {
+    "sounds":[
+        {
+            "name": "plate:celestia/nova_cannon_whir",
+            "pitch": 1.0,
+            "weight": 1,
+            "volume": 1
+        } 
+    ]
+}
+}

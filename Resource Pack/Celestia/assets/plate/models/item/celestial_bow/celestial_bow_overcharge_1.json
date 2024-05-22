@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/bow",
+    "textures": {
+        "layer0": "plate:item/celestial_bow/celestial_bow_overcharge_1"
+    }
+}

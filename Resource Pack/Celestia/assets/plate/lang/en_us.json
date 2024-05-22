@@ -1,0 +1,20 @@
+{
+    "death.attack.special": "%1$s was spontaneously lobotomized by %2$s",
+    "death.attack.special.item": "%1$s's vital organs were ruptured by %2$s's %3$s",
+
+    "death.attack.ice": "%1$s was frozen over by %2$s",
+    "death.attack.ice.item": "%1$s's heart got turned into ice by %2$s's %3$s",
+
+    "death.attack.fire": "%1$s was turned into a well-done steak by %2$s",
+    "death.attack.fire.item": "%1$s was redued to charcoal by %2$s's %3$s",
+
+    "death.attack.piercing": "%1$s's armor was pierced by %2$s",
+    "death.attack.piercing.item": "%1$s's armor was pierced by %2$s's %3$s",
+
+    "death.attack.bullet": "%1$s was shot down by %2$s",
+    "death.attack.bullet.item": "%1$s got a taste of %2$s's %3$s",
+
+    "death.attack.star_fall": "%1$s was crushed by falling stars, courtesy of %2$s's celestial aim",
+    "death.attack.star_fall.item": "%1$s was crushed by falling stars, courtesy of %2$s's %3$s"
+  }
+  
