@@ -1,0 +1,52 @@
+language: en_US
+enable-resource-pack: true
+celestiaWeapons:
+  celestialBow:
+    enable: true
+    attack-damage: 6.5
+    attack-speed: 1.0
+  cosmicChainWhip:
+    enable: true
+    attack-damage: 6.5
+    attack-speed: 0.8
+  etherealRapier:
+    enable: true
+    attack-damage: 4
+    attack-speed: 1.2
+  lunarWand:
+    enable: true
+    attack-damage: 4
+    attack-speed: 1.2
+  lunariumDagger:
+    enable: true
+    attack-damage: 6
+    attack-speed: 1.2
+    ice-damage: 3
+    ice2-damage: 5
+  moonslimeCrossbow:
+    enable: true
+    attack-damage: 6
+    attack-speed: 1.2
+  slimeSlasher:
+    enable: true
+    attack-damage: 6.5
+    attack-speed: 0.8
+  solariumDagger:
+    enable: true
+    attack-damage: 4
+    attack-speed: 1.2
+    fire-damage: 3
+    fire2-damage: 5
+  spellbook:
+    enable: true
+    attack-damage: 4
+    attack-speed: 1.2
+  starlightDagger:
+    enable: true
+    attack-damage: 4
+    attack-speed: 1.2
+  stellarNovaCannon:
+    enable: true
+    attack-damage: 3
+    attack-speed: 1.8
+protected-chunks: ''
