@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/_parent_nugget",
+  "textures": {
+    "layer0": "minecraft:item/iron_nugget"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 13600
+      },
+      "model": "plate:item/amuletofundying"
+    }
+  ]
+}
