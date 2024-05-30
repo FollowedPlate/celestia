@@ -1,0 +1,10 @@
+{
+    "name": "Celestia",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
