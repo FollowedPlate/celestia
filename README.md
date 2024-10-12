@@ -15,7 +15,7 @@ Made using the Paper framework, Java, and online drawing applications.
 **2.** Compile the provided java class structure into a .jar file using Intellij Idea.\
 **3.** Run the minecraft server.\
 **4.** Download and install the official texture pack from Modrinth into your Minecraft client.\
-**5.** Join the server using a verified Mojang account.\
+**5.** Join the server using a verified Mojang account.
 ## Roadmap
 
 - Adding more weapons to demonstrate the capabilities of the Paper framework
